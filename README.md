@@ -2,11 +2,11 @@
 <h1 align="left"> Hey there, I'm Deepanjan 👋 </h1>
 
 <p align="left">
-   <a href="https://deepanjansitt.co/"><img alt="Portfolio" src="https://img.shields.io/badge/-deepanjansitt.co-black?style=flat-square&logo=squarespace&logoColor=white&link=https://dewith.co/"></a>
-   <a href="https://www.linkedin.com/in/deepanjansitt/"><img alt="LinkedIn" src="https://img.shields.io/badge/-deepanjansitt-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dewithmiramon/"></a>
-   <a href="https://twitter.com/Deepanjansitt"><img alt="Twitter" src="https://img.shields.io/badge/-@Deepanjansitt-black?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/DewithMiramon"></a>
-   <a href="mailto:deepanjansitt@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-deepanjansitt@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dewithmiramon@gmail.com"></a>
-   <a href="https://medium.com/@deepanjansitt"><img alt="Medium" src="https://img.shields.io/badge/-@deepanjansitt-03a57a?style=flat-square&color=000000&labelColor=000000&logo=Medium&link=https://medium.com/@dewith"></a>
+   <a href="https://deepanjansitt.co/"><img alt="Portfolio" src="https://img.shields.io/badge/-deepanjan.sitt-orange?style=flat-square&logo=squarespace&logoColor=white&link=https://deepanjansitt.co/"></a>
+   <a href="https://www.linkedin.com/in/deepanjansitt/"><img alt="LinkedIn" src="https://img.shields.io/badge/-deepanjansitt-0075b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepanjansitt/"></a> 
+   <a href="https://twitter.com/Deepanjansitt"><img alt="Twitter" src="https://img.shields.io/badge/-@Deepanjansitt-08a0e9?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Deepanjansitt"></a>
+   <a href="mailto:deepanjansitt@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-deepanjansitt@gmail.com-eb4336?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deepanjansitt@gmail.com"></a>
+   <a href="https://medium.com/@dewith"><img alt="Gmail" src="https://img.shields.io/badge/-@deepanjansitt-51a652?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@deepanjansitt"></a>
 </p>
 
 <h3 align="left">  I'm an industrial engineer who is interested in data analytics and applied machine learning. Enthusiast of graphic design and illustration. Internet citizen. </h3>
