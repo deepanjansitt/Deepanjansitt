@@ -19,8 +19,8 @@
 - 🔭 **I’m currently working on:** ML models
 - 🌱 **I’m currently learning:** data engineering
 - 👯 **I’m looking to collaborate on:** data science projects/competitions
-- 💬 **Ask me about:** data science, memes, kdramas, Bad Bunny
-- ⚡ **Hobbies:** books, internet, music, series, pet my cat
+- 💬 **Ask me about:** data science, memes, movies, Bad Bunny
+- ⚡ **Hobbies:** books, internet, music, series, boxing
 - 😄 **Pronouns:** he/him
 
 ---
